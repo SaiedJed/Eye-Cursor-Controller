@@ -16,7 +16,7 @@ This project was developed to support users with disabilities such as ALS or Loc
 
 ---
 
-## 📽 Demo
+## Demo
 
 A live demo is available and demonstrates the full functionality of the project.  
 👉 **[Demo Link – https://drive.google.com/file/d/1_dbMrfWjTWLyd_oYVxgBC2ov4gN7An2S/view?usp=sharing]**
@@ -49,7 +49,7 @@ A live demo is available and demonstrates the full functionality of the project.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - OpenCV
